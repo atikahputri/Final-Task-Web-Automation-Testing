@@ -9,6 +9,8 @@ Untuk mengawali pembuatan project automation testing diperlukan beberapa tools d
 2. Python Pip
 3. Robot Framework
 3. Web Driver (Chrome atau Firefox)
+4. Aplikasi VScode
+5. Url Web yang digunakan untuk testing : http://automationpractice.com/
 
 Cara menjalankan automation test
 
